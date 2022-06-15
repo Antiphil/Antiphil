@@ -3,7 +3,7 @@
 
 **Tools & technologies I user or prefer to work with:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,svg,figma,javascript,github,svelte,react,firebase,supabase&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,svg,javascript,github,svelte,react,firebase,supabase&perline=10)](#)
 
 **Tools & technologies im currently learning**
 
