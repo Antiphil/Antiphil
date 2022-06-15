@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Tools & technologies I user or prefer to work with:**
+**Tools & technologies im used or prefer to work with:**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,svg,javascript,github,svelte,react,firebase,supabase&perline=10)](#)
 
