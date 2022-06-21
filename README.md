@@ -8,7 +8,7 @@ Beginner Frontend Web Developer & UX Designer
 * 🖥️  See my portfolio at [namazu.dev](http://namazu.dev)
 * ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)
 * 🚀  I'm currently working on [XIVDB.org](http://xivdb.org)
-* 🧠  I'm learning Sveltekit & ProstgreSQL
+* 🧠  I'm currently learning Sveltekit & ProstgreSQL
 
 ### Skills
 
