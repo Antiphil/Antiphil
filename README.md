@@ -5,7 +5,7 @@ Beginner Frontend Web Developer & UX Designer
 ---------------------------------------------
 
 * 🌍  I'm based in Germany, Thüringen
-* 🖥️  See my portfolio at [namazu.dev](http://namazu.dev)
+* 🖥️  See my portfolio at [philstack.de](https://philstack.de)
 * ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)
 * 🚀  I'm currently working on [XIVDB.org](http://xivdb.org)
 * 🧠  I'm currently learning Sveltekit & ProstgreSQL
