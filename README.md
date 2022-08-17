@@ -1,5 +1,12 @@
 Hi 👋 My name is Phil!
-======================Beginner Frontend Web Developer & UX Designer---------------------------------------------* 🌍  I'm based in Thüringen, Germany* 🖥️  See my portfolio at [philstack.dev](http://philstack.dev)* ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)* 🚀  I'm currently working on [xivdb.org](http://xivdb.org)* 🧠  I'm learning Sveltekit, Backend, Database, Auth
+======================
+Beginner Frontend Web Developer & UX Designer
+
+* 🌍  I'm based in Thüringen, Germany
+* 🖥️  See my portfolio at [philstack.dev](http://philstack.dev)
+* ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)
+* 🚀  I'm currently working on [xivdb.org](http://xivdb.org)
+* 🧠  I'm learning Sveltekit, Backend, Database, Auth
 
 ### Skills
 
