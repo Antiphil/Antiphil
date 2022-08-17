@@ -6,7 +6,7 @@ Beginner Frontend Web Developer & UX Designer
 * 🖥️  See my portfolio at [philstack.dev](http://philstack.dev)
 * ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)
 * 🚀  I'm currently working on [xivdb.org](http://xivdb.org)
-* 🧠  I'm learning Sveltekit, Backend Development, PostgresSQL/Primsa, Authentication/Authorisation
+* 🧠  I'm learning Sveltekit, Backend Development, PostgresSQL/Primsa, Authentication/Authorisation, Tailwind CSS
 
 ### Skills
 
