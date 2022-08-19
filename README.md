@@ -3,7 +3,7 @@ Hi 👋 My name is Phil!
 Beginner Frontend Web Developer & UX Designer
 
 * 🌍  I'm based in Thüringen, Germany
-* 🖥️  See my portfolio at [philstack.dev](http://philstack.dev)
+* 🖥️  See my portfolio at [philstack.de](http://philstack.de)
 * ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)
 * 🚀  I'm currently working on [xivdb.org](http://xivdb.org)
 * 🧠  I'm learning Sveltekit, Backend Development, PostgresSQL/Primsa, Authentication/Authorisation, Tailwind CSS
