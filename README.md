@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm based in Thüringen, Germany<br><br>- 🔭 I’m working as freelancer <br>- 🖥️ See my portfolio at [philstack.de](http://philstack.de)<br>- ✉️  You can contact me at [stehle@mailbox.org](mailto:stehle@mailbox.org)<br>- 📚 I'm currently learning Backend Development with Rust/Tauri<br>- ⚡ In my free time I work on [xivdb.org](http://xivdb.org)</p>
+<p align="left">I'm based in Thüringen, Germany<br><br>- 🔭 I’m working as freelancer <br>- 🖥️ See my portfolio at <a href="http://philstack.de">www.Philstack.de</a><br>- ✉️  You can contact me at N/A <br>- 📚 I'm currently learning Backend Development with Rust/Tauri<br>- ⚡ In my free time I work on <a href="https://dev.xivdata.com">xivdata.com</a></p>
 
 ###
 
